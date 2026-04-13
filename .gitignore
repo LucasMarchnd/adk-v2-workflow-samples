@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables and secrets
+.env
+.env.local
+.env.dev
+.env.prod
+*.local
+*.key
+*secret*
+
+# ADK and IDE folders
+.adk/
+.vscode/
+.idea/
+.DS_Store
